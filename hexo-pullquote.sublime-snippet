@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% pullquote ${1:class} %}${2:content}{% endpullquote %}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hexo-pq</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

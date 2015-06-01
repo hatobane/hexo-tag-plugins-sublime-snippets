@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% img ${1:class} ${2:/path/to/image} ${3:width} ${4:height} "${5:title text}" %}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hexo-img</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

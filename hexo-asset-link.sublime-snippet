@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% asset_link ${1:file} "${2:text}" %}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hexo-al</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

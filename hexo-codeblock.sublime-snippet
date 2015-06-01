@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{% codeblock "${1:title}" ${2:lang:html} ${3:URL} "${4:link text}" %}
+${5:content}
+{% endcodeblock %}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hexo-cb</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

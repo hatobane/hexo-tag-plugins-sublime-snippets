@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% link "${1:text}" ${2:URL} "${3:title}" %}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hexo-a</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

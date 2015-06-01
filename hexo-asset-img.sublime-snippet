@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% asset_img ${0:file} %}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hexo-ai</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>
