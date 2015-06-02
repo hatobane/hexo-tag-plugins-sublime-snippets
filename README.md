@@ -5,11 +5,11 @@
 ### Installation
 
 #### For Windows
-`$ cd "%APPDATA%/Sublime Text 3\Packages\User"`
+`$ cd "%APPDATA%/Sublime Text 3\Packages\User"`  
 `$ git clone: https://github.com/hatobane/hexo-tag-plugins-sublime-snippets.git`
 
 #### For Mac/Linux
-`$ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
+`$ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages`  
 `$ git clone: https://github.com/hatobane/hexo-tag-plugins-sublime-snippets.git`
 
 ### Snippets
